@@ -40,6 +40,6 @@ Vous pouvez en savoir plus dans la [documentation de Create React App](https://f
 
 Pour apprendre React, consultez la [documentation de React](https://reactjs.org/).
 
-## Stay in touch
+## Restons en contact
 
-- Author - [Samir IDIR]
+- Autheur - [Samir IDIR]
