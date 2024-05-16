@@ -1,0 +1,17 @@
+.loader{
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+  }
+  
+  /*
+    Set the color of the icon
+  */
+  .loader svg path,
+  .loader svg rect{
+    fill: var(--white);
+  }
